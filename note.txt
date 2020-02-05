@@ -5,6 +5,8 @@ Git Setting
    -> Webhooks
      -->project-url/github-webhooks/   // end slash is must.
 ** error faced during url // Https 
+*ngrok authtoken 1XP0vUdwZMVGc7ibLP2zUWBo3lN_6MR9aBDmCRT4eRG3Uaoqg
+*ngrok http 8080
      
 Jenkings
     -> create job
