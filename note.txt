@@ -1,0 +1,14 @@
+Continuous integration and continuous delivery (CI/CD)
+Jenkins is a free and open source automation serve.
+
+Git Setting
+   -> Webhooks
+     -->project-url/github-webhooks/   // end slash is must.
+** error faced during url // Https 
+     
+Jenkings
+    -> create job
+    -> general -> GitHUb project ->-> src code man - >git url >> branch master 
+      --> Build Triggers -->  github hook  
+    1) Build
+ 
